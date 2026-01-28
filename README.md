@@ -1,16 +1,33 @@
-# Highguard Wiki — Comprehensive Game Guide
+# Highguard Wiki – Ultimate Guide & Tier Lists
 
-Welcome to **Highguard Wiki** — the ultimate resource for mastering the PvP raid shooter *Highguard*.
+**Highguard Wiki** is a community-driven guide site for the PvP raid shooter **Highguard**.
 
-This repository contains:
-- 📊 Wardens Tier Lists (S → C)
-- 🧠 Beginner & Advanced Guides
-- 🔫 Weapons & Loadout Breakdown
-- 🛠 Meta Strategies & Team Compositions
+This project provides comprehensive, up-to-date resources to help players understand the game mechanics, master Wardens, and optimize their strategies.
 
-🕹️ Highguard is a **free-to-play 3v3 PvP raid shooter** developed by Wildlight Entertainment, where teams of Wardens fight for control of powerful objectives and raid enemy bases.:contentReference[oaicite:4]{index=4}
+🌐 Official Guide Website: https://highguard.app
 
-## 📥 Getting Started
-You can explore this guide online: **https://highguard.app**
+---
 
-## 📚 Content Structure
+## 🎮 What Is Highguard?
+
+Highguard is a **free-to-play 3v3 PvP raid shooter** where teams of Wardens compete in fast-paced matches, combining tactical combat, abilities, and objective-based gameplay.
+
+Players must balance aggression, positioning, and teamwork to outplay opponents and secure victory.
+
+---
+
+## 📚 What You’ll Find in This Wiki
+
+- 🧙 **Wardens Overview** – Roles, abilities, and playstyles  
+- 📊 **Tier Lists** – Current meta rankings from S-tier to C-tier  
+- 🔫 **Weapons & Loadouts** – Weapon types, strengths, and use cases  
+- 🧠 **Beginner Guides** – Core mechanics and early-game tips  
+- ⚔️ **Advanced Strategies** – Team composition and match-phase tactics  
+
+All content is curated and continuously updated on  
+👉 **https://highguard.app**
+
+---
+
+## 🗂 Repository Structure
+
