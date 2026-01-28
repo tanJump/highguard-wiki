@@ -27,6 +27,8 @@ Players must balance aggression, positioning, and teamwork to outplay opponents 
 All content is curated and continuously updated on  
 👉 **https://highguard.app**
 
+- Notion Guide Overview: https://www.notion.so/Highguard-Wiki-Ultimate-Guide-Tier-List-Strategies-2f6809100d7380d79138c52ed2569bbc?source=copy_link
+
 ---
 
 ## 🗂 Repository Structure
