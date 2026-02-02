@@ -1,44 +1,89 @@
-# Highguard Wiki – Ultimate Guide & Tier Lists
-**Highguard Wiki** is a community-driven guide site for the PvP raid shooter **Highguard**.
-This project provides comprehensive, up-to-date resources to help players understand the game mechanics, master Wardens, and optimize their strategies.
+# Highguard Wiki – Community Guide Project
 
-🌐 Official Guide Website: https://highguard.app
+This repository documents and references a community-maintained wiki for the PvP raid shooter **Highguard**.  
+It exists to organize structured resources about the game, including mechanics, Wardens, strategies, and tier analysis.
 
----
-
-## 🎮 What Is Highguard?
-Highguard is a **free-to-play 3v3 PvP raid shooter** where teams of Wardens compete in fast-paced matches, combining tactical combat, abilities, and objective-based gameplay.
-Players must balance aggression, positioning, and teamwork to outplay opponents and secure victory.
+🌐 Canonical resource site: https://highguard.app
 
 ---
 
-## 📚 What You'll Find in This Wiki
-- 🧙 **Wardens Overview** – Roles, abilities, and playstyles  
-- 📊 **Tier Lists** – Current meta rankings from S-tier to C-tier  
-- 🔫 **Weapons & Loadouts** – Weapon types, strengths, and use cases  
-- 🧠 **Beginner Guides** – Core mechanics and early-game tips  
-- ⚔️ **Advanced Strategies** – Team composition and match-phase tactics  
+## 🎮 About Highguard
 
-All content is curated and continuously updated on  
-👉 **https://highguard.app**
-
-- Notion Guide Overview: https://www.notion.so/Highguard-Wiki-Ultimate-Guide-Tier-List-Strategies-2f6809100d7380d79138c52ed2569bbc?source=copy_link
+Highguard is a free-to-play 3v3 PvP raid shooter focused on tactical combat, Warden abilities, and objective-driven gameplay.  
+Teams must coordinate positioning, timing, and ability usage to control match phases and secure victory.
 
 ---
 
-## 🗂 Repository Structure
+## 📚 Core Reference Pages
 
-(你的仓库结构内容...)
+## 📚 Core Reference Pages
+
+These pages form the primary structured documentation for Highguard:
+
+### 🏆 Tier Lists
+- Highguard Tier List  
+  https://highguard.app/highguard-tier-list/
+
+- Warden Tier Rankings  
+  https://highguard.app/tier-list/wardens/
+
+- Weapon Tier Rankings  
+  https://highguard.app/tier-list/weapons/
+
+### 📖 Wiki & Guides
+- Highguard Wiki Hub  
+  https://highguard.app/highguard-wiki/
+
+- Beginner Guide  
+  https://highguard.app/guides/beginner/
+
+- What Is Highguard? (Overview)  
+  https://highguard.app/what-is-highguard/
+
+### 📊 Data & Tools
+- Warden Stats & Meta Snapshot  
+  https://highguard.app/stats/
+
+- Team Builder Tool  
+  https://highguard.app/tools/team-builder/
+
+### 🧙 Character Reference
+- All Wardens Index  
+  https://highguard.app/wardens/
+
+- Atticus Guide  
+  https://highguard.app/wardens/atticus/
+
 
 ---
 
-## 🔗 More Gaming Guides
+## 🧠 Scope of the Wiki
 
-Check out our other community-driven game wikis:
+The wiki focuses on:
 
-| Game | Website |
+- Warden roles and abilities
+- Meta tier evaluation
+- Weapons and loadout strategy
+- Beginner onboarding
+- Team composition theory
+- Match phase breakdown
+
+All structured documentation is maintained and updated at  
+👉 https://highguard.app
+
+Notion overview mirror:  
+https://www.notion.so/Highguard-Wiki-Ultimate-Guide-Tier-List-Strategies-2f6809100d7380d79138c52ed2569bbc
+
+---
+
+## 🔗 Related Community Projects
+
+| Game | Resource |
 |------|---------|
-| 🏰 **Arknights** | https://arknights.win/ |
-| ⚔️ **Highguard** | https://highguard.app/ |
+| Arknights | https://arknights.win/ |
+| Highguard | https://highguard.app/ |
 
 ---
+
+This repository acts as an index and reference pointer to the live wiki.
+It is not affiliated with the official game developers.
